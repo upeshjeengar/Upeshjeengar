@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Upesh Jeengar</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upeshjeengar&label=Profile%20views&color=0e75b6&style=flat" alt="upeshjeengar" /> </p>
 
-- 🌱 I’m currently learning **Full Stack, Data Science**
+- 🌱 I’m currently learning **Java and Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
